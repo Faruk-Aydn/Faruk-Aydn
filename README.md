@@ -49,15 +49,18 @@
 
 ---
 
-### 📈 GitHub Stats & Activity
+### 📌 Pinned Repositories
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faruk-Aydn&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faruk-Aydn&layout=compact&theme=radical" width="350"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faruk-Aydn&theme=radical"/>
+  <a href="https://github.com/Faruk-Aydn/smartQuiz">
+    <img src="https://img.shields.io/badge/SmartQuiz-%2300C4CC.svg?&style=for-the-badge&logo=android&logoColor=white" />
+  </a>
+  <a href="https://github.com/Faruk-Aydn/KuranKursApp">
+    <img src="https://img.shields.io/badge/KuranKursApp-%23FF6F00.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Faruk-Aydn/AracKiralamaOtomaasyonu">
+    <img src="https://img.shields.io/badge/Car_Rental_Automation-%23512BD4.svg?&style=for-the-badge&logo=dotnet&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -78,4 +81,11 @@
 
 ---
 
-> ✨ Feel free to explore my repositories and reach out for collaboration or just to say hello! 😊
+### 💡 Quote
+
+<p align="center">
+  <em>"Software engineering is not only about coding,<br>
+  but about solving problems and building solutions that matter."</em>
+</p>
+
+---
