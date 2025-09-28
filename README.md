@@ -33,11 +33,19 @@
 
 ### 🚀 Featured Projects
 
-- 📱 [**Summer Quran Course Tracker**](https://github.com/Faruk-Aydn/kursApp)  
-  Android app to manage students and lessons using **Kotlin + Room Database**.
+- 📱 [**SmartQuiz**](https://github.com/Faruk-Aydn/smartQuiz)  
+  AI-powered quiz application where teachers can automatically generate questions, and students can solve them via **QR codes**.  
+  🔹 **Stack**: Kotlin (Android), FastAPI (Python), Redis  
+  🔹 **Features**: Quiz generation, QR login, leaderboard system  
+
+- 📱 [**KuranKursApp**](https://github.com/Faruk-Aydn/KuranKursApp)  
+  Android app for managing Quran course students and lessons.  
+  🔹 **Stack**: Kotlin + Jetpack Compose + MVVM  
+  🔹 **Features**: Room Database, Firebase sync, offline-first support  
 
 - 🚗 [**Car Rental Automation**](https://github.com/Faruk-Aydn/AracKiralamaOtomaasyonu)  
-  A comprehensive car rental system with booking, billing & invoice features using **C#**.
+  A comprehensive car rental system with booking, billing & invoice features.  
+  🔹 **Stack**: C# + .NET  
 
 ---
 
@@ -70,5 +78,4 @@
 
 ---
 
-> Feel free to explore my repositories and reach out for collaboration or just to say hello! 😊
-
+> ✨ Feel free to explore my repositories and reach out for collaboration or just to say hello! 😊
