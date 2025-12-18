@@ -194,19 +194,10 @@ val developer = Developer(
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faruk-Aydn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Faruk-Aydn&theme=tokyonight&hide_border=true&cache=reset" alt="GitHub Streak"/>
-</p>
+
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Faruk-Aydn&theme=tokyonight&no-frame=true&row=1&column=7&v=1" alt="GitHub Trophies"/>
-</p>
-
----
 
 ## 📈 Activity Graph
 
