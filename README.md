@@ -183,6 +183,20 @@ val developer = Developer(
 </table>
 
 ---
+## 🤝 Open Source Contributions
+
+<table>
+  <tr>
+    <td width="100%">
+      <p><strong>🌟 VisionGuide</strong></p>
+      <p>Görme engelliler için nesne tanıma, para tanıma, metin okuma ve resim betimleme gibi sesli geri bildirimlerle yardımcı olan bu uygulamada, özellikle <strong>Android tarafında kullanıcı arayüzü (UI) geliştirmeleri</strong> ve <strong>erişilebilirlik (accessibility) özelliklerinin iyileştirilmesi</strong> üzerine katkıda bulundum.</p>
+      <p><strong>🛠️ Tools:</strong> <code>Kotlin</code> • <code>Jetpack Compose</code> • <code>TalkBack Integration</code></p>
+      <p>
+        <a href="https://github.com/HalitACET/VisionGuide/tree/faruk-dev"><img src="https://img.shields.io/badge/View_Contribution-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Contribution"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
